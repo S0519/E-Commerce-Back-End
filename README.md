@@ -8,7 +8,6 @@ The technology used for this application are: javascript, node.js, MySQL, expres
 ## Demo 
 Insomnia:
 
-![Screenshot (151)](https://user-images.githubusercontent.com/80322588/123681467-7f7dec00-d80f-11eb-8454-316f739b274e.png)
 ![Screenshot (167)](https://user-images.githubusercontent.com/80322588/123681471-80af1900-d80f-11eb-95cc-08f53bbd9cf6.png)
 ![Screenshot (168)](https://user-images.githubusercontent.com/80322588/123681474-80af1900-d80f-11eb-859e-6589b224a45c.png)
 ![Screenshot (169)](https://user-images.githubusercontent.com/80322588/123681475-8147af80-d80f-11eb-9128-68723ae6c9c9.png)
