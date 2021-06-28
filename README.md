@@ -28,12 +28,11 @@ Insomnia:
 
 ## Usage
 -We downloaded the packages necessaries to run the application.
-
 -We are running the application in the database getting infotmation from the server.
 
 
 ## URL
 * https://drive.google.com/file/d/1RhL7KNr9_RSLfFzYXAyarxbMDSMGzsbu/view
-* 
+
 
  
