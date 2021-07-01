@@ -27,8 +27,8 @@ Insomnia:
 
 
 ## Usage
--We downloaded the packages necessaries to run the application.
--We are running the application in the database getting infotmation from the server.
+* We downloaded the packages necessaries to run the application.
+* We are running the application in the database getting infotmation from the server.
 
 
 ## URL
